@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Java",
+    "imagen": "/imagenes/java.png",
+    "enlace": "/curso/Java"
+  },
+  {
+    "id": 2,
+    "titulo": "HTML y CSS",
+    "imagen": "/imagenes/css+html.png",
+    "enlace": "https://www.google.com.uy"
+  },
+  {
+    "id": 3,
+    "titulo": "Javascript",
+    "imagen": "/imagenes/js.png",
+    "enlace": "https://www.google.com.uy"
+  },
+ {
+    "id": 4,
+    "titulo": "HTML y CSS",
+    "imagen": "/imagenes/linux.png",
+    "enlace": "https://www.google.com.uy"
+  }
+ ]
