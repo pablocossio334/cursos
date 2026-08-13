@@ -22,5 +22,11 @@
     "titulo": "HTML y CSS",
     "imagen": "/imagenes/linux.png",
     "enlace": "https://www.google.com.uy"
+  },
+  {
+    "id": 5,
+    "titulo": "PHP",
+    "imagen": "/imagenes/linux.png",
+    "enlace": "https://www.google.com.uy"
   }
  ]
